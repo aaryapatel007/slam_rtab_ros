@@ -8,8 +8,8 @@ For this project I will be using the `rtabmap_ros` package, which is a ROS wrapp
 ![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/gazebo.png)
 ![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/rviz_screenshot_2020_05_16-08_27_06.png)
 ![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/rviz_screenshot_2020_05_16-08_28_10.png)
-![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/Screenshot%20(17).png)
-![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/Screenshot%20(21).png)
+![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/rtab1.png)
+![pic](https://github.com/aaryapatel007/slam_rtab_ros/blob/master/images/rtab2.png)
 
 ## Prerequisites/Dependencies  
 * Gazebo >= 7.0  
